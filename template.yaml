@@ -1,6 +1,5 @@
 # No actual modification
 # just adding comment
-# add extra comment
 
 AWSTemplateFormatVersion: '2010-09-09'
 Description: CodePipeline for the Sample Lambda Function
