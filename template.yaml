@@ -21,7 +21,7 @@ Parameters:
   CMKARN:
     Description: ARN of the KMS CMK creates in Tools account
     Type: String
-  Test2:
+  Test3:
 Resources:
   S3BucketPolicy:
     Type: AWS::S3::BucketPolicy
